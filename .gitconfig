@@ -1,0 +1,7 @@
+[user]
+	name = Citrus88
+	email = maksee88@g.mail.com
+[core]
+	autocrlf = true
+	safecrlf = false
+	eol = native
